@@ -1,0 +1,2 @@
+Sum is 1784293664
+Time taken: 0.291000 ms

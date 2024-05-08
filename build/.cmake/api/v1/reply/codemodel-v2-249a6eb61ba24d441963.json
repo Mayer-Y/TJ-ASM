@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test_CMake",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_CMake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_CMake-Debug-fb8c18284d2e535d8d66.json",
+					"name" : "test_CMake",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/build",
+		"source" : "/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,3 @@
+/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy/build/CMakeFiles/edit_cache.dir
+/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy/build/CMakeFiles/test_CMake.dir

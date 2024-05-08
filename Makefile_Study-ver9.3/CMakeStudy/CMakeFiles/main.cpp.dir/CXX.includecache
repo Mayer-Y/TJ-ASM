@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy/fun1.cpp
+iostream
+-
+
+/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy/fun2.cpp
+iostream
+-
+

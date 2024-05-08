@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/test_CMake.dir/main.cpp.o -c /mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy/main.cpp",
+  "file": "/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy/main.cpp"
+},
+{
+  "directory": "/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/test_CMake.dir/fun1.cpp.o -c /mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy/fun1.cpp",
+  "file": "/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy/fun1.cpp"
+},
+{
+  "directory": "/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/test_CMake.dir/fun2.cpp.o -c /mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy/fun2.cpp",
+  "file": "/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy/fun2.cpp"
+}
+]

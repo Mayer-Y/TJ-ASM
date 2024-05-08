@@ -1,0 +1,28 @@
+{
+  "files.associations": {
+    "stdio.h": "c"
+  },
+  "workbench.colorCustomizations": {
+    "terminal.background": "#292D3E",
+    "terminal.foreground": "#D8D8D8",
+    "terminalCursor.background": "#D8D8D8",
+    "terminalCursor.foreground": "#D8D8D8",
+    "terminal.ansiBlack": "#292C36",
+    "terminal.ansiBlue": "#8485CE",
+    "terminal.ansiBrightBlack": "#65568A",
+    "terminal.ansiBrightBlue": "#8485CE",
+    "terminal.ansiBrightCyan": "#64878F",
+    "terminal.ansiBrightGreen": "#95C76F",
+    "terminal.ansiBrightMagenta": "#B74989",
+    "terminal.ansiBrightRed": "#F84547",
+    "terminal.ansiBrightWhite": "#F8F8F8",
+    "terminal.ansiBrightYellow": "#EFA16B",
+    "terminal.ansiCyan": "#64878F",
+    "terminal.ansiGreen": "#d9b7c6",
+    "terminal.ansiMagenta": "#B74989",
+    "terminal.ansiRed": "#F84547",
+    "terminal.ansiWhite": "#D8D8D8",
+    "terminal.ansiYellow": "#EFA16B"
+  },
+  "cmake.sourceDirectory": "/mnt/d/homework/Summer/computer_tech/SimpleMakefile/SimpleMakefile-ver9.1/tj-asm/Makefile_Study-ver9.3/CMakeStudy"
+}

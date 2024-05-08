@@ -46,19 +46,22 @@ cosx:
 	.cfi_offset 6, -16
 	movq	%rsp, %rbp
 	.cfi_def_cfa_register 6
-	subq	$32, %rsp
-	movss	%xmm0, -20(%rbp)
+	subq	$48, %rsp
+	movss	%xmm0, -36(%rbp)
 	movq	%fs:40, %rax
 	movq	%rax, -8(%rbp)
 	xorl	%eax, %eax
 	movss	.LC0(%rip), %xmm0
-	movss	%xmm0, -12(%rbp)
+	movss	%xmm0, -16(%rbp)
 #APP
-# 31 "maths.c" 1
-	fld -12(%rbp);fld -20(%rbp);fldpi;fmul;fdiv;fcos;fstp -16(%rbp);
+# 29 "maths.c" 1
+	fld -16(%rbp);fld -36(%rbp);fldpi;fmul;fdiv;fstp -12(%rbp);
+# 0 "" 2
+# 35 "maths.c" 1
+	fld -12(%rbp);fcos;fstp -20(%rbp);
 # 0 "" 2
 #NO_APP
-	movss	-16(%rbp), %xmm0
+	movss	-20(%rbp), %xmm0
 	movq	-8(%rbp), %rax
 	subq	%fs:40, %rax
 	je	.L6
@@ -87,7 +90,7 @@ square_root:
 	movq	%rax, -8(%rbp)
 	xorl	%eax, %eax
 #APP
-# 50 "maths.c" 1
+# 44 "maths.c" 1
 	fld -20(%rbp);fsqrt;fstp -12(%rbp);
 # 0 "" 2
 #NO_APP

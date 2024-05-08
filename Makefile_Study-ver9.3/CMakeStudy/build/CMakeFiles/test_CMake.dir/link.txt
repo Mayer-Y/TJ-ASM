@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_CMake.dir/main.cpp.o CMakeFiles/test_CMake.dir/fun1.cpp.o CMakeFiles/test_CMake.dir/fun2.cpp.o  -o test_CMake 
